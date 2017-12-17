@@ -1,0 +1,92 @@
+[{
+    "FoodChain": "Rami-Levi",
+    "Name": "Hadera",
+    "Latitude": 32.4340458,
+    "Longitude": 34.9196518
+  },
+  {
+    "FoodChain": "Rami-Levi",
+    "Name": "Bat-Yam",
+    "Latitude": 32.0131860,
+    "Longitude": 34.7480190
+  },
+  {
+    "FoodChain": "Rami-Levi",
+    "Name": "Tel-Aviv",
+    "Latitude": 32.0852999,
+    "Longitude": 34.7817676
+  },
+  {
+    "FoodChain": "Rami-Levi",
+    "Name": "Sderot",
+    "Latitude": 31.5226940,
+    "Longitude": 34.5955810
+  },
+  {
+    "FoodChain": "Shufersal",
+    "Name": "Ramla",
+    "Latitude": 31.9315660,
+    "Longitude": 34.8729380
+  }, {
+    "FoodChain": "Shufersal",
+
+    "Name": "Rishon LeTsiyon",
+    "Latitude": 31.9730015,
+    "Longitude": 34.7925013
+  }, {
+    "FoodChain": "Shufersal",
+
+    "Name": "Be'er Ya'akov",
+    "Latitude": 31.9435070,
+    "Longitude": 34.8390400
+  }, {
+    "FoodChain": "Shufersal",
+    "Name": "Shoham",
+    "Latitude": 31.9957581,
+    "Longitude": 34.9488403
+  },
+  {
+    "FoodChain": "Mega",
+    "Name": "Kfar Yona",
+    "Latitude": 32.3177190,
+    "Longitude": 34.9336150
+  }, {
+    "FoodChain": "Mega",
+    "Name": "Netanya",
+    "Latitude": 32.3214580,
+    "Longitude": 34.8531960
+  }, {
+    "FoodChain": "Mega",
+    "Name": "Zihron Ya'akov",
+    "Latitude": 32.5739050,
+    "Longitude": 34.9519770
+  }, {
+    "FoodChain": "Mega",
+
+    "Name": "Giv'atayim",
+    "Latitude": 32.0721760,
+    "Longitude": 34.8088710
+  },
+  {
+    "FoodChain": "Keshet Teamim",
+
+    "Name": "Nesher",
+    "Latitude": 32.7649000,
+    "Longitude": 35.0491910
+  }, {
+    "FoodChain": "Keshet Teamim",
+    "Name": "Haifa",
+    "Latitude": 32.7940463,
+    "Longitude": 34.9895710
+  }, {
+    "FoodChain": "Keshet Teamim",
+    "Name": "Givat Brenner",
+    "Latitude": 31.8666100,
+    "Longitude": 34.8022540
+  }, {
+    "FoodChain": "Keshet Teamim",
+    "Name": "Yokne'am Illit",
+    "Latitude": 32.6602250,
+    "Longitude": 35.1046060
+  }
+]
